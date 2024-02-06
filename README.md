@@ -1,2 +1,3 @@
 # movie-recommender-system-tmdb-dataset
-A content based movie recommender system using cosine similarity
+This is a movie recommendation system using TMDB dataset .Here I use Python,ML and other supporting tools such as streamlit,pickel.You will get a full view from the below link
+
